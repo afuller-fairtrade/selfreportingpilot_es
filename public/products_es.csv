@@ -1,0 +1,597 @@
+﻿product_code,major category,minor category,production type,multiplication_factor
+pp002,Banana,Banana baby,Banana baby: costera (<800m sobre el nivel del mar),1
+pp003,Banana,Banana baby,Banana baby: montaña (≥800m sobre el nivel del mar),1
+pp001,Banana,Banana (fresca),Banana (fresca),1
+pp005,Banana,Banana (otro),Otro [especificar],1
+pp004,Banana,Plátano (fresco),Plátano (fresco),1
+pp007,Azucar de caña,Azucar de caña,Otro [especificar],1
+pp321,Azucar de caña,Azucar de caña,Azucar,1
+pp006,Azucar de caña,Azucar de caña,Caña de azúcar,0.1
+pp311,Cereales,Mijo,Mijo,1
+pp243,Cereales,Cereales (otro),Otro [especificar],1
+pp329,Cereales,Qañiwa,Qañiwa,1
+pp242,Cereales,Quinoa,Quinoa,1
+pp244,Arroz,Arroz,Basmati: Pusa,1
+pp245,Arroz,Arroz,Basmati: tradicional,1
+pp246,Arroz,Arroz,petit poussin negro y petit poussin blanco,1
+pp604,Arroz,Arroz,Grano largo de Brazil,1
+pp605,Arroz,Arroz,Grano largo aromático birmano,1
+pp606,Arroz,Arroz,Grano largo aromático camboyano,1
+pp607,Arroz,Arroz,Giza,1
+pp247,Arroz,Arroz,Arroz glutinoso: negro o violeta,1
+pp248,Arroz,Arroz,Arroz glutinoso: blanco,1
+pp608,Arroz,Arroz,Hsin Thu Kha,1
+pp249,Arroz,Arroz,Jasmine y Jasmine Rojo,1
+pp609,Arroz,Arroz,Ma Naw Thu Kha,1
+pp610,Arroz,Arroz,Mandarina,1
+pp611,Arroz,Arroz,No-Basmati y No-Sarbati,1
+pp612,Arroz,Arroz,No glutinoso negro,1
+pp613,Arroz,Arroz,No glutinoso rojo,1
+pp250,Arroz,Arroz,Convencional de grano largo,1
+pp253,Arroz,Arroz,Otro [especificar],1
+pp614,Arroz,Arroz,Paw San,1
+pp251,Arroz,Arroz,Sarbati,1
+pp616,Arroz,Arroz,Shwe Thwe Lay,1
+pp617,Arroz,Arroz,Arroz Thai de grano largo,1
+pp252,Arroz,Arroz,Selección tradicional de Sri Lanka,1
+pp636,Cereales,Sorgo,Sorgo,1
+pp008,Cacao,Cacao,Granos de cacao (brutos),1
+pp009,Cacao,Cacao,Otro [especificar],1
+pp011,Café,Arabica,Arábica: cereza deshidratada,0.5
+pp010,Café,Arabica,Arábica: cereza sin procesar,0.5
+pp012,Café,Arabica,Arábica: pergamino sin lavar,0.8
+pp013,Café,Arabica,Arábica: pergamino lavado,0.8
+pp018,Café,Café (otro),Otro [especificar],1
+pp015,Café,Robusta,Robusta: cereza deshidratada,0.5
+pp014,Café,Robusta,Robusta: cereza sin procesar,0.5
+pp016,Café,Robusta,Robusta: pergamino sin lavar,0.8
+pp017,Café,Robusta,Robusta: pergamino lavado,0.8
+pp348,Flores y Plantas,Plantas,Bulbos,1
+pp044,Flores y Plantas,Flores y follajes cortados,Flores cortadas,1
+pp046,Flores y Plantas,Flores y follajes cortados,Flores y follajes cortados,1
+pp045,Flores y Plantas,Flores y follajes cortados,Follaje cortado,1
+pp047,Flores y Plantas,Plantas,Plantas ornamentales,1
+pp350,Flores y Plantas,Plantas,Material de plantas jóvenes,1
+pp048,Flores y Plantas,Flores y Plantas (otro),Otro [especificar],1
+pp049,Fonio,Fonio,Fonio,1
+pp050,Fonio,Fonio,Otro [especificar],1
+pp019,"Fruta procesada (zumo, deshidratada y pulpa)",Acái,Acái (deshidratado),1
+pp020,"Fruta procesada (zumo, deshidratada y pulpa)",Manzanas,Manzanas (deshidratadas),1
+pp021,"Fruta procesada (zumo, deshidratada y pulpa)",Albaricoque,Albaricoque (deshidratado),1
+pp022,"Fruta procesada (zumo, deshidratada y pulpa)",Banana,Banana (deshidratada),1
+pp023,"Fruta procesada (zumo, deshidratada y pulpa)",Arándano,Arándano (deshidratado),1
+pp024,"Fruta procesada (zumo, deshidratada y pulpa)",Cereza,Cereza (deshidratada),1
+pp025,"Fruta procesada (zumo, deshidratada y pulpa)",Cocos,Coco (deshidratado),1
+pp026,"Fruta procesada (zumo, deshidratada y pulpa)",Datiles,Datiles (deshidratado),1
+pp027,"Fruta procesada (zumo, deshidratada y pulpa)",Limas,Limas (deshidratada),1
+pp028,"Fruta procesada (zumo, deshidratada y pulpa)",Mango,Mango (deshidratado),1
+pp029,"Fruta procesada (zumo, deshidratada y pulpa)",Melon (Cumumis melo),Melón (Cumumis melo) (deshidratado),1
+pp041,"Fruta procesada (zumo, deshidratada y pulpa)",Fruta procesada (otro),Otras frutas deshidratadas [especificar],1
+pp030,"Fruta procesada (zumo, deshidratada y pulpa)",Papaya,Papaya (deshidratada),1
+pp031,"Fruta procesada (zumo, deshidratada y pulpa)",Pera,Peras (deshidratadas),1
+pp327,"Fruta procesada (zumo, deshidratada y pulpa)",Caqui,Caqui (deshidratado),1
+pp032,"Fruta procesada (zumo, deshidratada y pulpa)",Physalis,Physalis (deshidratado),1
+pp033,"Fruta procesada (zumo, deshidratada y pulpa)",Piña,Piña (deshidratada),1
+pp034,"Fruta procesada (zumo, deshidratada y pulpa)",Ciruelas,Ciruelas (deshidratadas),1
+pp035,"Fruta procesada (zumo, deshidratada y pulpa)",Granado,Granado (deshidratado),1
+pp036,"Fruta procesada (zumo, deshidratada y pulpa)",Pasas,Pasas (deshidratadas),1
+pp037,"Fruta procesada (zumo, deshidratada y pulpa)",Frambuesas,Frambuesas (deshidratadas),1
+pp038,"Fruta procesada (zumo, deshidratada y pulpa)",Sultana,Sultana (deshidratada),1
+pp039,"Fruta procesada (zumo, deshidratada y pulpa)",Sandía,Sandía (deshidratada),1
+pp040,"Fruta procesada (zumo, deshidratada y pulpa)",Albaricoque silvestre,Albaricoque silvestre (deshidratado),1
+pp051,Fruta fresca,Acái,Acái (deshidratado),1
+pp052,Fruta fresca,Manzanas,Manzanas (frescas),1
+pp053,Fruta fresca,Albaricoque,Albaricoque (fresco),1
+pp054,Fruta fresca,Aguacate,Aguacate (fresco),1
+pp055,Fruta fresca,Baobab,Baobab (fresco),1
+pp056,Fruta fresca,Casis,Casis (fresco),1
+pp057,Fruta fresca,Arándano,Arándano (fresco),1
+pp058,Fruta fresca,Cereza,Cereza (fresca),1
+pp059,Fruta fresca,Dátiles,Dátiles (frescos),1
+pp060,Fruta fresca,pitahaya,pitahaya (fresca),1
+pp061,Fruta fresca,Pomelo (Toronja),Pomelo (Toronja) (fresco),1
+pp634,Fruta fresca,Fruta de Jaca,Fruta de Jaca (fresca),1
+pp631,Fruta fresca,Lanzon,Lanzon (fresco),1
+pp062,Fruta fresca,Limones,Limones (frescos),1
+pp063,Fruta fresca,Limas,Limas (frescas),1
+pp064,Fruta fresca,Litchi,Litchi (fresco),1
+pp065,Fruta fresca,Mangos,Mangos (frescos),1
+pp632,Fruta fresca,Mangostino,Mangostino (fresco),1
+pp066,Fruta fresca,Marula,Marula (fresca),1
+pp067,Fruta fresca,Melón (Cumumis melo),Melón (Cumumis melo) (fresco),1
+pp068,Fruta fresca,Mini Sandía,Mini Sandía (fresca),1
+pp069,Fruta fresca,Nectarinas,Nectarinas (frescas),1
+pp070,Fruta fresca,Naranjas,Naranjas (frescas),1
+pp071,Fruta fresca,Naranjas: Navel,Naranjas: Navel (frescas),1
+pp072,Fruta fresca,Naranjas: Valencia,Naranjas: Valencia (frescas),1
+pp092,Fruta fresca,Fruta fresca (otro),Fruta fresca (otro),1
+pp103,Oro y metales preciosos asociados,Oro,Oro: convencional,1
+pp104,Oro y metales preciosos asociados,Oro,Oro: ecológico,1
+pp109,Oro y metales preciosos asociados,Oro y metales preciosos asociados (otro),Otro [especificar],1
+pp107,Oro y metales preciosos asociados,Platino,Platino: convencional,1
+pp108,Oro y metales preciosos asociados,Platino,Platino: ecológico,1
+pp105,Oro y metales preciosos asociados,Plata,Plata: convencional,1
+pp106,Oro y metales preciosos asociados,Plata,Plata: ecológica,1
+pp110,Hierbas aromáticas y especias e infusiones de hierbas,Achochilla ,Achochilla (Cyclanthera tenuisepala),1
+pp111,Hierbas aromáticas y especias e infusiones de hierbas,Agave,"Agave (Agave tequilana, A. salmiana)",1
+pp112,Hierbas aromáticas y especias e infusiones de hierbas,Ajowan,Ajowan (Trachyspermum ammi),1
+pp372,Hierbas aromáticas y especias e infusiones de hierbas,Alfalfa,Alfalfa (Medicago sativa),1
+pp113,Hierbas aromáticas y especias e infusiones de hierbas,Pimienta de Jamaica,Pimienta de Jamaica (Pimenta dioica),1
+pp114,Hierbas aromáticas y especias e infusiones de hierbas,Flor de almendro,"Flor de almendro (Prunus dulcis, var. dulcis)",1
+pp115,Hierbas aromáticas y especias e infusiones de hierbas,Aloe,Aloe (Aloe vera),1
+pp373,Hierbas aromáticas y especias e infusiones de hierbas,Altimisa,Altimisa (Ambrosia arborescens),1
+pp374,Hierbas aromáticas y especias e infusiones de hierbas,Amaranto semilla,Amaranto semilla,1
+pp375,Hierbas aromáticas y especias e infusiones de hierbas,Angélica,"Angélica (Angelica sylvestris, A. archangelica)",1
+pp376,Hierbas aromáticas y especias e infusiones de hierbas,Angélica,"Raíz de angélica (Angelica sylvestris, A. archangelica)",1
+pp377,Hierbas aromáticas y especias e infusiones de hierbas,Angélica,"Tallo de angélica (Angelica sylvestris, A. archangelica)",1
+pp116,Hierbas aromáticas y especias e infusiones de hierbas,Anis de syzygium,Anis de syzygium (Syzygium anisatum),1
+pp117,Hierbas aromáticas y especias e infusiones de hierbas,Anis verde,Anis verde (Pimpinella anisum),1
+pp378,Hierbas aromáticas y especias e infusiones de hierbas,Semilla de achiote/onoto,Semilla de achiote/onoto (Bixa orellana),1
+pp118,Hierbas aromáticas y especias e infusiones de hierbas,Semilla de albaricoque,Semilla de albaricoque (Prunus armeniaca L.),1
+pp627,Hierbas aromáticas y especias e infusiones de hierbas,Azúcar/nectar de Arenga,Azúcar/nectar de Arenga,1
+pp119,Hierbas aromáticas y especias e infusiones de hierbas,Asafétida,Asafétida (Ferula assa-foetida),1
+pp315,Hierbas aromáticas y especias e infusiones de hierbas,Azúcar de palmera de Palmyra,Azúcar de palmera de Palmyra,1
+pp379,Hierbas aromáticas y especias e infusiones de hierbas,Azúcar de palmera de Palmyra,Azúcar de palmera de Palmyra (Borassus flabellifer): yemas,1
+pp380,Hierbas aromáticas y especias e infusiones de hierbas,Azúcar de palmera de Palmyra,Azúcar de palmera de Palmyra (Borassus flabellifer): savia de las espádices,1
+pp381,Hierbas aromáticas y especias e infusiones de hierbas,Raiz de astragalo,Raiz de astragalo (Astragalus spec.),1
+pp382,Hierbas aromáticas y especias e infusiones de hierbas,Fruto del agracejo,Fruto del agracejo (Berberis vulgaris),1
+pp120,Hierbas aromáticas y especias e infusiones de hierbas,Albahaca,"Albahaca (Ocimum basilicum, O. gratissimum)",1
+pp383,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de Laurel,Hojas de Laurel (Laurus nobilis),1
+pp384,Hierbas aromáticas y especias e infusiones de hierbas,Flor de la bergamota silvestre,Flor de la bergamota silvestre (Monarda didyma),1
+pp385,Hierbas aromáticas y especias e infusiones de hierbas,Membrillo de Bengala,Fruta de membrillo de Bengala (Aegle marmelos),1
+pp386,Hierbas aromáticas y especias e infusiones de hierbas,Membrillo de Bengala,Hoja de membrillo de Bengala (Aegle marmelos),1
+pp387,Hierbas aromáticas y especias e infusiones de hierbas,Membrillo de Bengala,Raíz de membrillo de Bengala (Aegle marmelos),1
+pp388,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de arándano,Hoja de arándano (Vaccinium myrtillus),1
+pp389,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de abedul,"Hoja de abedul (Betula pendula, B. pubescens)",1
+pp390,Hierbas aromáticas y especias e infusiones de hierbas,Hierba de obispo,Hierba de obispo (Aegopodium podagraria),1
+pp121,Hierbas aromáticas y especias e infusiones de hierbas,Neguilla,Neguilla (Nigella sativa),1
+pp122,Hierbas aromáticas y especias e infusiones de hierbas,Morera negra,Morera negra (Morus nigra),1
+pp123,Hierbas aromáticas y especias e infusiones de hierbas,Pimienta negra,Pimienta negra (Piper nigrum),1
+pp124,Hierbas aromáticas y especias e infusiones de hierbas,Zarzamora,Zarzamora (Rubus fruticosus),1
+pp125,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de grosellero negro,Hoja de grosellero negro (Ribes nigrum),1
+pp391,Hierbas aromáticas y especias e infusiones de hierbas,Iris versicolor,Iris versicolor (Iris versicolor),1
+pp392,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de boldo,Hoja de boldo (Peumus boldus),1
+pp393,Hierbas aromáticas y especias e infusiones de hierbas,Borraja,"Borraja (Borago officinalis, B. pygmaea)",1
+pp394,Hierbas aromáticas y especias e infusiones de hierbas,Borraja,"Borraja (Borago officinalis, B. pygmaea)",1
+pp395,Hierbas aromáticas y especias e infusiones de hierbas,Borraja,"Borraja (Borago officinalis, B. pygmaea): deshidratada",1
+pp126,Hierbas aromáticas y especias e infusiones de hierbas,Pimentero brasileño / Turbinto,Pimentero brasileño / Turbinto (Schinus terebinthifolius),1
+pp396,Hierbas aromáticas y especias e infusiones de hierbas,Butxú,Butxú (Agathosma betulina),1
+pp397,Hierbas aromáticas y especias e infusiones de hierbas,Butxú,Butxú (Agathosma betulina),1
+pp398,Hierbas aromáticas y especias e infusiones de hierbas,Alforfón/Trigo sarraceno,Alforfón/Trigo sarraceno (Fagopyrum esculentum),1
+pp399,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de bardana,Raíz de bardana (Arctium majus),1
+pp400,Hierbas aromáticas y especias e infusiones de hierbas,Algáfita,Algáfita (Sanguisorba species),1
+pp401,Hierbas aromáticas y especias e infusiones de hierbas,Gitam / Herba gitanera.(Dictamnus albus),Gitam / Herba gitanera.(Dictamnus albus),1
+pp127,Hierbas aromáticas y especias e infusiones de hierbas,Manzanilla,"Manzanilla (Matricaria recutita, Anthemis nobilis)",1
+pp128,Hierbas aromáticas y especias e infusiones de hierbas,Alcaparro,Alcaparro (Capparis spinosa),1
+pp129,Hierbas aromáticas y especias e infusiones de hierbas,Alcaravea,Alcaravea (Carum carvi),1
+pp130,Hierbas aromáticas y especias e infusiones de hierbas,Cardamomo,Cardamomo (especies Elettaria y Amonum),1
+pp131,Hierbas aromáticas y especias e infusiones de hierbas,Fruto del cardamomo,Fruto del cardamomo (Elettaria y Amonum spp.),1
+pp641,Hierbas aromáticas y especias e infusiones de hierbas,Algarrobo,Algarrobo,1
+pp402,Hierbas aromáticas y especias e infusiones de hierbas,Musgo de Irlanda,Musgo de Irlanda (Chondrus crispus),1
+pp403,Hierbas aromáticas y especias e infusiones de hierbas,Casia,Casia,1
+pp404,Hierbas aromáticas y especias e infusiones de hierbas,Aceite de recino,Aceite de recino (Ricinus communis),1
+pp405,Hierbas aromáticas y especias e infusiones de hierbas,Nebeda / Hierba gatera,Nebeda / Hierba gatera (Nepeta species),1
+pp406,Hierbas aromáticas y especias e infusiones de hierbas,Flor de pie de gato,Flor de pie de gato (Antennaria dioica),1
+pp407,Hierbas aromáticas y especias e infusiones de hierbas,Corteza de catuaba,Corteza de catuaba (Erythroxylon catuaba martius),1
+pp132,Hierbas aromáticas y especias e infusiones de hierbas,Apio,Apio (Apium graveolens),1
+pp133,Hierbas aromáticas y especias e infusiones de hierbas,Centella,Centella (Centella asiática),1
+pp408,Hierbas aromáticas y especias e infusiones de hierbas,Centaura menor,Centaura menor (Erythraea centaurium),1
+pp134,Hierbas aromáticas y especias e infusiones de hierbas,Perifollo / Cerefolio / Perifolio,Perifollo / Cerefolio / Perifolio (Anthriscus cerefolium),1
+pp135,Hierbas aromáticas y especias e infusiones de hierbas,Semilla de Chia,Semilla de Chia (Salvia hispanica),1
+pp136,Hierbas aromáticas y especias e infusiones de hierbas,Escarola,Escarola (Cichorium intybus),1
+pp137,Hierbas aromáticas y especias e infusiones de hierbas,Chiles,Chiles (especie Capsicum),1
+pp409,Hierbas aromáticas y especias e infusiones de hierbas,Chirata,Chirata (Swertia chirata),1
+pp138,Hierbas aromáticas y especias e infusiones de hierbas,Cebollino,"Cebollino (Allium schoenoprasum, A. odoratum)",1
+pp410,Hierbas aromáticas y especias e infusiones de hierbas,Crisantemo,Crisantemo (Chrysanthemum species),1
+pp411,Hierbas aromáticas y especias e infusiones de hierbas,Perifollo oloroso,Perifollo oloroso (Myrrhis odorata),1
+pp412,Hierbas aromáticas y especias e infusiones de hierbas,Quina roja,Quina roja (Cinchona succirubra),1
+pp139,Hierbas aromáticas y especias e infusiones de hierbas,Canela,"Canela (Cinnamomum zeylanicum, C. cassia)",1
+pp140,Hierbas aromáticas y especias e infusiones de hierbas,Citronela,"Citronela (Cymbopogon winterianus, C. nardus)",1
+pp141,Hierbas aromáticas y especias e infusiones de hierbas,Clavo,Clavo (Syzygium aromaticum),1
+pp413,Hierbas aromáticas y especias e infusiones de hierbas,Licopodio,Licopodio (Lycopodium clavatum),1
+pp414,Hierbas aromáticas y especias e infusiones de hierbas,Juncia real,Juncia real (Cyperus rotundus),1
+pp415,Hierbas aromáticas y especias e infusiones de hierbas,Azúcar/nectar de cocotero,Azúcar/nectar de cocotero (Cocos nucifera),1
+pp416,Hierbas aromáticas y especias e infusiones de hierbas,Codonopsis Raiz,Codonopsis Raiz (Codonopsis pilosulae),1
+pp417,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de café,"Hoja de café (Coffea arabica, C. canephora)",1
+pp316,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de café,Hojas de Café,1
+pp418,Hierbas aromáticas y especias e infusiones de hierbas,Nuez de cola,Nuez de cola (Cola acuminata),1
+pp419,Hierbas aromáticas y especias e infusiones de hierbas,Acedera,Acedera (Rumex species),1
+pp420,Hierbas aromáticas y especias e infusiones de hierbas,Verónica común,Verónica común (Veronica officinalis),1
+pp421,Hierbas aromáticas y especias e infusiones de hierbas,Corteza de condurando,Corteza de condurando (Marsdenia cundurango),1
+pp142,Hierbas aromáticas y especias e infusiones de hierbas,Cilentro,Cilentro (Coriandrum sativum),1
+pp143,Hierbas aromáticas y especias e infusiones de hierbas,Aciano,Aciano (Centaurea cyanus),1
+pp422,Hierbas aromáticas y especias e infusiones de hierbas,Tanaceto,"Tanaceto (Tanacetum vulgare, T. balsamita)",1
+pp423,Hierbas aromáticas y especias e infusiones de hierbas,"Carrizo, Grama","Carrizo, Grama (Agropyron repens)",1
+pp424,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de arándano rojo,Hoja de arándano rojo (Vaccinium vitis-idaea),1
+pp144,Hierbas aromáticas y especias e infusiones de hierbas,Comino,Comino (Cuminum cyminum),1
+pp145,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de curry/ hojas de nim dulce,Hojas de curry/ hojas de nim dulce (Murraya koenigii),1
+pp425,Hierbas aromáticas y especias e infusiones de hierbas,Cuscuta semillas,Cuscuta semillas (Cuscuta epithymum),1
+pp426,Hierbas aromáticas y especias e infusiones de hierbas,Flores de margarita común,Flores de margarita común (Bellis perennis),1
+pp427,Hierbas aromáticas y especias e infusiones de hierbas,Rosa de Damasco,Rosa de Damasco (Rosa damascena),1
+pp428,Hierbas aromáticas y especias e infusiones de hierbas,Damiana,"Damiana (Turnera diffusa, var. aphrodisiaca)",1
+pp146,Hierbas aromáticas y especias e infusiones de hierbas,Dientes de león,Dientes de león (Taraxatum species),1
+pp147,Hierbas aromáticas y especias e infusiones de hierbas,Eneldo,Eneldo (Anethum graveolens),1
+pp429,Hierbas aromáticas y especias e infusiones de hierbas,Galeopsis/Cáñamo ortiga velloso,Galeopsis/Cáñamo ortiga velloso (Galeopsis segetum),1
+pp430,Hierbas aromáticas y especias e infusiones de hierbas,Fruto del saúco menor,Fruto del saúco menor (Sambucus ebulus),1
+pp431,Hierbas aromáticas y especias e infusiones de hierbas,Brotes de pino enano de montaña,Brotes de pino enano de montaña (Pinus mugo),1
+pp432,Hierbas aromáticas y especias e infusiones de hierbas,Retama de tintoreros,Retama de tintoreros (Genista tinctoria),1
+pp433,Hierbas aromáticas y especias e infusiones de hierbas,Planta de equinácea,Planta de equinácea (Echinacea spp.),1
+pp434,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de equinácea,Raíz de equinácea (Echinacea spp.),1
+pp435,Hierbas aromáticas y especias e infusiones de hierbas,Énula,Énula (Inula helenium),1
+pp506,Hierbas aromáticas y especias e infusiones de hierbas,Epazote,Epazote (Chenopodium ambrosioides),1
+pp436,Hierbas aromáticas y especias e infusiones de hierbas,Epazote,Epazote (Chenopodium ambrosioides),1
+pp437,Hierbas aromáticas y especias e infusiones de hierbas,Eucaliptus,Eucaliptus (Eucalyptus species),1
+pp438,Hierbas aromáticas y especias e infusiones de hierbas,Onagra,Onagra (Oenothera biennis),1
+pp439,Hierbas aromáticas y especias e infusiones de hierbas,Eufrasia,Eufrasia (Euphrasia officinalis),1
+pp148,Hierbas aromáticas y especias e infusiones de hierbas,Hinojo,Hinojo (Foeniculum vulgare),1
+pp149,Hierbas aromáticas y especias e infusiones de hierbas,Alholva / Fenogreco,Alholva / Fenogreco (Trigonella foenum-graecum),1
+pp440,Hierbas aromáticas y especias e infusiones de hierbas,Altamisa / Santa María / Chapote,Altamisa / Santa María / Chapote (Tanacetum parthenium),1
+pp441,Hierbas aromáticas y especias e infusiones de hierbas,Cola de caballo,Cola de caballo (Equisetum arvense),1
+pp442,Hierbas aromáticas y especias e infusiones de hierbas,Flor de amapola,Flor de amapola (Papaver rhoeas),1
+pp443,Hierbas aromáticas y especias e infusiones de hierbas,Rodaje de abeto,Rodaje de abeto (Abies spec.),1
+pp444,Hierbas aromáticas y especias e infusiones de hierbas,Corteza de zumaque aromático,Corteza de zumaque aromático (Rhus aromatica),1
+pp445,Hierbas aromáticas y especias e infusiones de hierbas,Fumaria,Fumaria (Fumaria officinalis),1
+pp150,Hierbas aromáticas y especias e infusiones de hierbas,Galangal,"Galangal (Kaempferia galanga, Languas galanga, L. officinarum, Alpinia galanga, A.officinarum)",1
+pp151,Hierbas aromáticas y especias e infusiones de hierbas,Cive chino,"Cive chino (Allium tuberosum, A. ramosum)",1
+pp152,Hierbas aromáticas y especias e infusiones de hierbas,Pelargonium,"Pelargonium (Pelargonium odoratissimum, P. graveolens)",1
+pp446,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de Giloy,Raíz de Giloy (Tinospora cordifolia),1
+pp447,Hierbas aromáticas y especias e infusiones de hierbas,Tallo de Giloy,Tallo de Giloy (Tinospora cordifolia),1
+pp153,Hierbas aromáticas y especias e infusiones de hierbas,Jengibre,Jengibre (Zingiber officicinale),1
+pp448,Hierbas aromáticas y especias e infusiones de hierbas,Ginkgo,Ginkgo (Ginkgo biloba),1
+pp449,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de ginseng,Raíz de ginseng (Panax ginseng),1
+pp450,Hierbas aromáticas y especias e infusiones de hierbas,Galega/Ruda cabruna,Galega/Ruda cabruna (Galega officinalis),1
+pp451,Hierbas aromáticas y especias e infusiones de hierbas,La fruta de Goji,La fruta de Goji (Lycium barbarum),1
+pp452,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de rhodiola rosea,Raíz de rhodiola rosea (Rhodiola rosea),1
+pp453,Hierbas aromáticas y especias e infusiones de hierbas,Vara de oro,Vara de oro (Solidago virgaurea),1
+pp454,Hierbas aromáticas y especias e infusiones de hierbas,Granos de paraiso /Pimienta de Guinea,Granos de paraiso /Pimienta de Guinea (Aframomum melegueta),1
+pp154,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de vid,Hojas de vid (Vitis vinifera),1
+pp455,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de Santa Rita,Hoja de Santa Rita (Bougainvillea spectabilis),1
+pp456,Hierbas aromáticas y especias e infusiones de hierbas,Té de montaña/Té griego,Té de montaña/Té griego (Sideritis spp.),1
+pp457,Hierbas aromáticas y especias e infusiones de hierbas,Hiedra terrestre,Hiedra terrestre (Glechoma hederacea),1
+pp458,Hierbas aromáticas y especias e infusiones de hierbas,Semilla de guaraná,Semilla de guaraná (Paullinia cupana),1
+pp155,Hierbas aromáticas y especias e infusiones de hierbas,Guayusa,Guayusa (Ilex guayusa),1
+pp319,Hierbas aromáticas y especias e infusiones de hierbas,Goma arábiga,Goma arábiga,1
+pp459,Hierbas aromáticas y especias e infusiones de hierbas,Goma arábiga,"Goma arábiga Savia del tronco (Acacia senegal, A. seyal)",1
+pp460,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de gymnena,Hojas de gymnena (Gymnema silvestre),1
+pp461,Hierbas aromáticas y especias e infusiones de hierbas,Herniaria,Herniaria (Herniaria hirsuta),1
+pp462,Hierbas aromáticas y especias e infusiones de hierbas,Espino,Espino (Crataegus species),1
+pp463,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de avellano,Hojas de avellano (Corylus avellana),1
+pp464,Hierbas aromáticas y especias e infusiones de hierbas,Pensamiento silvestre,Pensamiento silvestre (Viola tricolor),1
+pp465,Hierbas aromáticas y especias e infusiones de hierbas,Brezo,Brezo (Calluna vulgaris),1
+pp466,Hierbas aromáticas y especias e infusiones de hierbas,Flor de brezo,Flor de brezo (Calluna vulgaris),1
+pp467,Hierbas aromáticas y especias e infusiones de hierbas,Cáñamo/Marihuana medicinal,Cáñamo/Marihuana medicinal (Cannabis sativa),1
+pp468,Hierbas aromáticas y especias e infusiones de hierbas,Hierba de San Benito,Hierba de San Benito (Geum urbanum),1
+pp469,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de hierba de San Benito,Raíz de hierba de San Benito (Geum urbanum),1
+pp470,Hierbas aromáticas y especias e infusiones de hierbas,Infusiones de hierbas no especificado,Infusiones de hierbas no especificado,1
+pp156,Hierbas aromáticas y especias e infusiones de hierbas,Hibiscus,Hibiscus (Hibiscus sabdariffa),1
+pp471,Hierbas aromáticas y especias e infusiones de hierbas,Flor de malva real,Flor de malva real (Althaea rosea),1
+pp472,Hierbas aromáticas y especias e infusiones de hierbas,Cardo santo,Cardo santo (Cnicus benedictus),1
+pp157,Hierbas aromáticas y especias e infusiones de hierbas,Honeybush,Honeybush (Cyclopia species),1
+pp473,Hierbas aromáticas y especias e infusiones de hierbas,Marrubium,Marrubium (Marrubium vulgare),1
+pp474,Hierbas aromáticas y especias e infusiones de hierbas,Corteza de castaño de indias,Corteza de castaño de indias (Aesculus hippocastanum),1
+pp475,Hierbas aromáticas y especias e infusiones de hierbas,Flor de castaño de indias,Flor de castaño de indias (Aesculus hippocastanum),1
+pp476,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de castaño de indias,Hojas de castaño de indias (Aesculus hippocastanum),1
+pp477,Hierbas aromáticas y especias e infusiones de hierbas,Rábano picante,Rábano picante (Armoracia rusticana),1
+pp478,Hierbas aromáticas y especias e infusiones de hierbas,Hyssopus,Hyssopus (Hyssopus officinalis),1
+pp479,Hierbas aromáticas y especias e infusiones de hierbas,Líquen de Islandia,Líquen de Islandia (Cetraria islandica),1
+pp480,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de Andrographis,Hoja de Andrographis (Andrographis paniculata),1
+pp481,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de Andrographis,Raíz de Andrographis (Andrographis paniculata),1
+pp640,Hierbas aromáticas y especias e infusiones de hierbas,Goma-oleorresina,Goma-oleorresina,1
+pp482,Hierbas aromáticas y especias e infusiones de hierbas,Ginseng indio,Ginseng indio (Withania somnifera),1
+pp483,Hierbas aromáticas y especias e infusiones de hierbas,Indigo,Indigo (Indigofera tinctoria),1
+pp484,Hierbas aromáticas y especias e infusiones de hierbas,Iramusu/Zarzaparrilla índica,Iramusu/Zarzaparrilla índica (Hemidesmus indicus),1
+pp485,Hierbas aromáticas y especias e infusiones de hierbas,Coccinia,Coccinia (Coccinia indica),1
+pp486,Hierbas aromáticas y especias e infusiones de hierbas,Jengibre mioga,Jengibre mioga (Zingiber mioga),1
+pp158,Hierbas aromáticas y especias e infusiones de hierbas,Jazmín,Jazmín (Jasminum species),1
+pp159,Hierbas aromáticas y especias e infusiones de hierbas,Bayas de enebro,Bayas de enebro (Juniperus communis),1
+pp487,Hierbas aromáticas y especias e infusiones de hierbas,Centinodia,Centinodia (Polygonum aviculare),1
+pp160,Hierbas aromáticas y especias e infusiones de hierbas,Garcinia Indica,Garcinia Indica (Garcinia indica),1
+pp488,Hierbas aromáticas y especias e infusiones de hierbas,Corteza de lapacho,Corteza de lapacho (Tebebuia impetiginosa),1
+pp489,Hierbas aromáticas y especias e infusiones de hierbas,Flores de espuela de caballero,Flores de espuela de caballero (Delphinium consolidata),1
+pp161,Hierbas aromáticas y especias e infusiones de hierbas,Lavandula,Lavandula (Lavendula species),1
+pp320,Hierbas aromáticas y especias e infusiones de hierbas,Puerro; ajo elefante,Puerro; ajo elefante,1
+pp490,Hierbas aromáticas y especias e infusiones de hierbas,Melisa,Melisa (Mellisa officinalis),1
+pp162,Hierbas aromáticas y especias e infusiones de hierbas,Melisa,Melisa (Mellisa officinalis),1
+pp163,Hierbas aromáticas y especias e infusiones de hierbas,Mirto limón,Mirto limón (Backhousia citriodora),1
+pp491,Hierbas aromáticas y especias e infusiones de hierbas,Lavanda inglesa,Lavanda inglesa (Satureja biflora),1
+pp492,Hierbas aromáticas y especias e infusiones de hierbas,Hierbaluisa,Hierbaluisa (Aloysia citrodora),1
+pp164,Hierbas aromáticas y especias e infusiones de hierbas,Hierbaluisa,Hierbaluisa (Aloysia citrodora),1
+pp165,Hierbas aromáticas y especias e infusiones de hierbas,Caña de limon,"Caña de limon (Cympobogon citratus, C. flexuosus)",1
+pp493,Hierbas aromáticas y especias e infusiones de hierbas,Madera de palo santo/guayacán,Madera de palo santo/guayacán (Guajacum officinale),1
+pp494,Hierbas aromáticas y especias e infusiones de hierbas,Tilo,"Flores de tilo (Tilia cordata, T. platyphyllos)",1
+pp495,Hierbas aromáticas y especias e infusiones de hierbas,Tilo,"Hojas de tilo (Tilia cordata, T. platyphyllos)",1
+pp166,Hierbas aromáticas y especias e infusiones de hierbas,Regaliz,Regaliz (Glycyrrhiza glabra),1
+pp167,Hierbas aromáticas y especias e infusiones de hierbas,Pimienta larga,"Pimienta larga (Piper longum, P. retrofractum, P. officinarum)",1
+pp168,Hierbas aromáticas y especias e infusiones de hierbas,Levístico,Levístico (Levisticum officinale),1
+pp496,Hierbas aromáticas y especias e infusiones de hierbas,Kiwicha / Quihuicha,Kiwicha / Quihuicha (Amaranthus caudatus),1
+pp169,Hierbas aromáticas y especias e infusiones de hierbas,Maca,Maca (Lepidium peruvianum),1
+pp170,Hierbas aromáticas y especias e infusiones de hierbas,Macis,Macis (Myristica fragrans),1
+pp497,Hierbas aromáticas y especias e infusiones de hierbas,Vinca de Madagascar,Vinca de Madagascar (Catharanthus roseus),1
+pp498,Hierbas aromáticas y especias e infusiones de hierbas,Tamarindo malabar,Tamarindo malabar (Garcinia cambogia),1
+pp171,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de malva silvestre,Hojas de malva silvestre (Malva silvestris),1
+pp499,Hierbas aromáticas y especias e infusiones de hierbas,Resina de Fresno del maná,Resina de Fresno del maná (Fraxinus ornus),1
+pp172,Hierbas aromáticas y especias e infusiones de hierbas,Caléndula,Caléndula (Calendula officinalis),1
+pp173,Hierbas aromáticas y especias e infusiones de hierbas,Mejorana,Mejorana (Origanum majorana),1
+pp174,Hierbas aromáticas y especias e infusiones de hierbas,Mejorana,Frutos de mejorana (Origanum majorana),1
+pp500,Hierbas aromáticas y especias e infusiones de hierbas,Mejorana,Hojas de Malvavisco (Althaea officinalis),1
+pp501,Hierbas aromáticas y especias e infusiones de hierbas,Mejorana,Raíz de malvavisco (Althaea officinalis),1
+pp503,Hierbas aromáticas y especias e infusiones de hierbas,Matico en Ecuador,Matico en Ecuador (Aristeguietia glutinosa),1
+pp504,Hierbas aromáticas y especias e infusiones de hierbas,Flores de ulmaria/reina de los prados,Flores de ulmaria/reina de los prados (Filipendula ulmaria),1
+pp505,Hierbas aromáticas y especias e infusiones de hierbas,Planta de ulmaria/reina de los prados,Planta de ulmaria/reina de los prados (Filipendula ulmaria),1
+pp507,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de valeriana maxicana,Raíz de valeriana maxicana (Valeriana edulis),1
+pp508,Hierbas aromáticas y especias e infusiones de hierbas,Silybum,Silybum (Silybum species),1
+pp175,Hierbas aromáticas y especias e infusiones de hierbas,Menta,Menta (Mentha species),1
+pp509,Hierbas aromáticas y especias e infusiones de hierbas,Muérdago,Muérdago (Viscum album),1
+pp510,Hierbas aromáticas y especias e infusiones de hierbas,Cabeza de dragón,Cabeza de dragón (Dracocephalum moldavica),1
+pp511,Hierbas aromáticas y especias e infusiones de hierbas,Moradilla,Moradilla (Alternanthera cericea),1
+pp176,Hierbas aromáticas y especias e infusiones de hierbas,Pedúnculos de guindas,Pedúnculos de guindas (Prunus cerasus),1
+pp512,Hierbas aromáticas y especias e infusiones de hierbas,Moringa,Hoja de moringa (Moringa oleifera),1
+pp513,Hierbas aromáticas y especias e infusiones de hierbas,Moringa,Semilla de moringa (Moringa oleifera),1
+pp514,Hierbas aromáticas y especias e infusiones de hierbas,Tasmannia,Tasmannia (Tasmannia species),1
+pp515,Hierbas aromáticas y especias e infusiones de hierbas,Muelan,Muelan (Muelenbeckia tamnifolia),1
+pp177,Hierbas aromáticas y especias e infusiones de hierbas,Hoja de gordolobo,Hoja de gordolobo (Verbascum spp.),1
+pp516,Hierbas aromáticas y especias e infusiones de hierbas,Muña,Muña (Minthostachys mollis),1
+pp517,Hierbas aromáticas y especias e infusiones de hierbas,Mostaza,Mostaza (Sinapis and Brassica species),1
+pp518,Hierbas aromáticas y especias e infusiones de hierbas,Capuchina,Capuchina (Tropaeolum majus),1
+pp519,Hierbas aromáticas y especias e infusiones de hierbas,Nim,Nim (Azadirachta indica),1
+pp178,Hierbas aromáticas y especias e infusiones de hierbas,Ortiga,Ortiga (Urtica species),1
+pp520,Hierbas aromáticas y especias e infusiones de hierbas,Abeto rojo,Abeto rojo (Picea abies),1
+pp179,Hierbas aromáticas y especias e infusiones de hierbas,Nuez Moscada,Nuez Moscada (Myristica fragrans),1
+pp521,Hierbas aromáticas y especias e infusiones de hierbas,"Avena, verde","Avena, verde (Avena sativa)",1
+pp522,Hierbas aromáticas y especias e infusiones de hierbas,hoja de olivo,hoja de olivo (Olea europaea),1
+pp180,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de azahar,Hojas de azahar (Citrus aurantium),1
+pp523,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de azahar,Hojas de azahar (Citrus aurantium),1
+pp181,Hierbas aromáticas y especias e infusiones de hierbas,Oregano,"Oregano (Origanum vulgare, O. majoricum)",1
+pp213,Hierbas aromáticas y especias e infusiones de hierbas,Hierbas aromáticas y especias e infusiones de hierbas (otro),Otro [especificar],1
+pp524,Hierbas aromáticas y especias e infusiones de hierbas,Palmarosa,Palmarosa (Cymbopogon martinii),1
+pp525,Hierbas aromáticas y especias e infusiones de hierbas,Papaya,Papaya (Carica papaya),1
+pp182,Hierbas aromáticas y especias e infusiones de hierbas,Perejil,Perejil (Petroselinum crispum),1
+pp318,Hierbas aromáticas y especias e infusiones de hierbas,Pachulí,Pachulí,1
+pp526,Hierbas aromáticas y especias e infusiones de hierbas,Pachulí,Hoja de pachulí (Pogostemon cablin),1
+pp183,Hierbas aromáticas y especias e infusiones de hierbas,"Hierba de clavo, sombrerito","Hierba de clavo, sombrerito (Centrella asiatica)",1
+pp527,Hierbas aromáticas y especias e infusiones de hierbas,Flores de peonía,Flores de peonía (Paeonia incarnata),1
+pp528,Hierbas aromáticas y especias e infusiones de hierbas,Planta de pimpinela,Planta de pimpinela (Pimpinella major),1
+pp529,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de pimpinela,Raíz de pimpinela (Pimpinella major),1
+pp530,Hierbas aromáticas y especias e infusiones de hierbas,Platano,Platano,1
+pp531,Hierbas aromáticas y especias e infusiones de hierbas,Aerva lanata,Aerva lanata (Aerva lanata),1
+pp184,Hierbas aromáticas y especias e infusiones de hierbas,Granado,Granado (Punica granatum),1
+pp532,Hierbas aromáticas y especias e infusiones de hierbas,Simiente de amapola,Simiente de amapola (Papaver somniferum),1
+pp533,Hierbas aromáticas y especias e infusiones de hierbas,Poria hongo,Poria hongo (Poria cocos),1
+pp534,Hierbas aromáticas y especias e infusiones de hierbas,Flores de prímula,Flores de prímula (Primula veris),1
+pp535,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de prímula,Raíz de prímula (Primula veris),1
+pp536,Hierbas aromáticas y especias e infusiones de hierbas,Madera de palo amargo,Madera de palo amargo (Quassia amara),1
+pp537,Hierbas aromáticas y especias e infusiones de hierbas,Zanahoria,Zanahoria (Daucus carota),1
+pp185,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de frambueso,Hojas de frambueso (Rubus idaeus),1
+pp186,Hierbas aromáticas y especias e infusiones de hierbas,Alheña,Alheña (Lawsonia inermis),1
+pp538,Hierbas aromáticas y especias e infusiones de hierbas,Raiz de rehmannia,Raiz de rehmannia (Rehmannia glutinosa),1
+pp187,Hierbas aromáticas y especias e infusiones de hierbas,Rooibos,Rooibos (Aspalathus linearis),1
+pp188,Hierbas aromáticas y especias e infusiones de hierbas,El fruto de la rosa,El fruto de la rosa (Rosa species),1
+pp189,Hierbas aromáticas y especias e infusiones de hierbas,Rosa o flor de Jamaica,Rosa o flor de Jamaica (Hibiscus sabdariffa),1
+pp190,Hierbas aromáticas y especias e infusiones de hierbas,Romero,Romero (Rosmarinus officinalis),1
+pp539,Hierbas aromáticas y especias e infusiones de hierbas,Ruda,Ruda (Ruta graveolens),1
+pp540,Hierbas aromáticas y especias e infusiones de hierbas,Flores de loto sagrado,Flores de loto sagrado (Nelumbo nucifera),1
+pp191,Hierbas aromáticas y especias e infusiones de hierbas,Flores de cártamo,Flores de cártamo (Carthamus tinctorius),1
+pp192,Hierbas aromáticas y especias e infusiones de hierbas,Azafrán,Azafrán (Crocus sativus),1
+pp193,Hierbas aromáticas y especias e infusiones de hierbas,Sauge,"Sauge (Salvia officinalis, S.sclarea)",1
+pp541,Hierbas aromáticas y especias e infusiones de hierbas,Flores de siempreviva del monte,Flores de siempreviva del monte (Helichrysum arenarium),1
+pp542,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de zarzaparrilla,Raíz de zarzaparrilla (Smilax spp.),1
+pp543,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de sassafras,Hojas de sassafras (Sassafras albidum),1
+pp544,Hierbas aromáticas y especias e infusiones de hierbas,Satavar,Satavar (Asparagus racemosus),1
+pp194,Hierbas aromáticas y especias e infusiones de hierbas,Ajedreas,"Ajedreas (Satureja hortensis, S. montana)",1
+pp545,Hierbas aromáticas y especias e infusiones de hierbas,Bayas de schisandra,Bayas de schisandra (Scrisandra chinensis),1
+pp546,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de senega,Raíz de senega (Polygala senega),1
+pp195,Hierbas aromáticas y especias e infusiones de hierbas,Sen de España / Brusca hedionda,Sen de España / Brusca hedionda (Cassia obovata),1
+pp196,Hierbas aromáticas y especias e infusiones de hierbas,Sésamo,Sésamo (Sesamum indicum),1
+pp547,Hierbas aromáticas y especias e infusiones de hierbas,Shankhapushpi,Shankhapushpi (Convolvulus pluricaulis),1
+pp548,Hierbas aromáticas y especias e infusiones de hierbas,Bolsa de pastor,Bolsa de pastor (Capsella bursa-pastoris),1
+pp549,Hierbas aromáticas y especias e infusiones de hierbas,Eleuterococo/Ginseng siberiano,Eleuterococo/Ginseng siberiano (Eleutheroccocus senticosus),1
+pp550,Hierbas aromáticas y especias e infusiones de hierbas,Pimienta de Sichuan,"Pimienta de Sichuan (Zanthoxylum piperitum, Z. simulans)",1
+pp551,Hierbas aromáticas y especias e infusiones de hierbas,Flores de tilo plateado,"Flores de tilo plateado (Tilia argentea, T. tomentosa)",1
+pp552,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de tilo plateado,"Hojas de tilo plateado (Tilia argentea, T. tomentosa)",1
+pp553,Hierbas aromáticas y especias e infusiones de hierbas,Anserina,Anserina (Potentilla anserina),1
+pp554,Hierbas aromáticas y especias e infusiones de hierbas,Bayas de endrino,Bayas de endrino (Prunus spinosa),1
+pp555,Hierbas aromáticas y especias e infusiones de hierbas,Hernaria,Hernaria (Hernaria glabra),1
+pp556,Hierbas aromáticas y especias e infusiones de hierbas,Corteza de quillay,Corteza de quillay (Quillaja saponaria),1
+pp557,Hierbas aromáticas y especias e infusiones de hierbas,Abrótano,"Abrótano (Artemisia abrotanum, A. vulgaris)",1
+pp197,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de espinaca,Hojas de espinaca (Spinacia oleracea),1
+pp558,Hierbas aromáticas y especias e infusiones de hierbas,Espirulina,Espirulina (Spirulina platensis),1
+pp559,Hierbas aromáticas y especias e infusiones de hierbas,Flores de hipérico/hierba de San Juan,Flores de hipérico/hierba de San Juan (Hypericum perforatum),1
+pp560,Hierbas aromáticas y especias e infusiones de hierbas,Planta de hipérico/hierba de San Juan,Planta de hipérico/hierba de San Juan (Hypericum perforatum),1
+pp198,Hierbas aromáticas y especias e infusiones de hierbas,Anís estrellado,Anís estrellado (Illicium verum),1
+pp199,Hierbas aromáticas y especias e infusiones de hierbas,Stevia,Stevia (Stevia species),1
+pp561,Hierbas aromáticas y especias e infusiones de hierbas,Coriandre largo,Coriandre largo (Eryngium foetidum),1
+pp562,Hierbas aromáticas y especias e infusiones de hierbas,Chancapiedra,Chancapiedra (Phyllanthus niruri),1
+pp563,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de fresa,Hojas de fresa (Fragaria ananassa),1
+pp564,Hierbas aromáticas y especias e infusiones de hierbas,Pétalos de girasol,Pétalos de girasol (Helianthus annuus),1
+pp200,Hierbas aromáticas y especias e infusiones de hierbas,Pedúnculos de cerezas silvestres,Pedúnculos de cerezas silvestres (Prunus avium spp. avium),1
+pp565,Hierbas aromáticas y especias e infusiones de hierbas,Szechwan levístico rizoma,Szechwan levístico rizoma (Ligusticum wallichii),1
+pp566,Hierbas aromáticas y especias e infusiones de hierbas,Tamarindo,Tamarindo (Tamarindus indica),1
+pp201,Hierbas aromáticas y especias e infusiones de hierbas,Estragón,Estragón (Artemisia dracunculus),1
+pp202,Hierbas aromáticas y especias e infusiones de hierbas,Árbol del té,Árbol del té (Melaleuca alternifolia),1
+pp567,Hierbas aromáticas y especias e infusiones de hierbas,Cinnamomum tamala,Cinnamomum tamala (Cinnamomum tamala),1
+pp203,Hierbas aromáticas y especias e infusiones de hierbas,Tomillo,Tomillo (Thymus species),1
+pp568,Hierbas aromáticas y especias e infusiones de hierbas,Tubérculo de chufa/juncia avellanada,Tubérculo de chufa/juncia avellanada (Cyperus esculentus),1
+pp569,Hierbas aromáticas y especias e infusiones de hierbas,Linaria,Linaria (Linaria vulgaris),1
+pp570,Hierbas aromáticas y especias e infusiones de hierbas,Haba tonka,Haba tonka (Dipteryx odorata),1
+pp571,Hierbas aromáticas y especias e infusiones de hierbas,Tormentila raíz(Potentilla erecta),Tormentila raíz(Potentilla erecta),1
+pp572,Hierbas aromáticas y especias e infusiones de hierbas,Lavátera / Malva arbórea,Lavátera / Malva arbórea (Lavatera arborea),1
+pp573,Hierbas aromáticas y especias e infusiones de hierbas,Planta de tulsí,Planta de tulsí (Ocimum tenuiflorum),1
+pp204,Hierbas aromáticas y especias e infusiones de hierbas,Cúrcuma,Cúrcuma (Curcuma species),1
+pp574,Hierbas aromáticas y especias e infusiones de hierbas,Valeriana decussata,Valeriana decussata (Valeriana decussata),1
+pp205,Hierbas aromáticas y especias e infusiones de hierbas,Vainilla,"Vainilla (Vanilla mexicana, V. fragrans, V. planifolia)",1
+pp575,Hierbas aromáticas y especias e infusiones de hierbas,Uva Veldt,Uva Veldt (Cissus quadrangularis),1
+pp576,Hierbas aromáticas y especias e infusiones de hierbas,Verbena,Verbena (Verbena species),1
+pp206,Hierbas aromáticas y especias e infusiones de hierbas,Vetiver,Vetiver (Chrysopogon zizanioides),1
+pp577,Hierbas aromáticas y especias e infusiones de hierbas,Poligonato/Sello de Salomón,Poligonato/Sello de Salomón (Polygonum odoratum),1
+pp207,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de nogal,Hojas de nogal (Juglans regia),1
+pp578,Hierbas aromáticas y especias e infusiones de hierbas,Centella asiatica,Centella asiatica (Bacopa monnieri),1
+pp579,Hierbas aromáticas y especias e infusiones de hierbas,Menta de agua,Menta de agua,1
+pp580,Hierbas aromáticas y especias e infusiones de hierbas,Berro de agua,Berro de agua (Nasturtium officinale),1
+pp581,Hierbas aromáticas y especias e infusiones de hierbas,Acacia sentis,Acacia sentis (Acacia victoriae),1
+pp582,Hierbas aromáticas y especias e infusiones de hierbas,Blanco atractylodes rizoma,Blanco atractylodes rizoma (Atractylodis macrocephalae),1
+pp583,Hierbas aromáticas y especias e infusiones de hierbas,Ortiga blanca,Flores de ortiga blanca (Lamium album),1
+pp584,Hierbas aromáticas y especias e infusiones de hierbas,Ortiga blanca,Planta de ortiga blanca (Lamium album),1
+pp585,Hierbas aromáticas y especias e infusiones de hierbas,Mariposa,Mariposa (Hedychium coronarium),1
+pp208,Hierbas aromáticas y especias e infusiones de hierbas,Morera,Hojas de morera (Morus alba),1
+pp586,Hierbas aromáticas y especias e infusiones de hierbas,Morera,Ramita de morera (Morus alba),1
+pp587,Hierbas aromáticas y especias e infusiones de hierbas,Raiz de Peonia blanca,Raiz de Peonia blanca (Paeonia alba),1
+pp209,Hierbas aromáticas y especias e infusiones de hierbas,Pimienta blanca,Pimienta blanca (Piper nigrum),1
+pp317,Hierbas aromáticas y especias e infusiones de hierbas,Datilera silvestre,Datilera silvestre,1
+pp210,Hierbas aromáticas y especias e infusiones de hierbas,Hojas de fresa silvestre,Hojas de fresa silvestre (Fragaria vesca),1
+pp588,Hierbas aromáticas y especias e infusiones de hierbas,Planta de adelfilla,Planta de adelfilla (Epilobium angustifolium),1
+pp589,Hierbas aromáticas y especias e infusiones de hierbas,Barbarea,"Barbarea (Barbarea vulgaris, B. verna)",1
+pp590,Hierbas aromáticas y especias e infusiones de hierbas,Hamamelis/avellano de bruja,Corteza de hamamelis/avellano de bruja (Hamamelis virginiana),1
+pp591,Hierbas aromáticas y especias e infusiones de hierbas,Hamamelis/avellano de bruja,Hojas de hamamelis/avellano de bruja (Hamamelis virginiana),1
+pp592,Hierbas aromáticas y especias e infusiones de hierbas,Madera de betónica,Madera de betónica (Betonica officinalis),1
+pp211,Hierbas aromáticas y especias e infusiones de hierbas,Asperilla,Asperilla (Galium odoratum),1
+pp212,Hierbas aromáticas y especias e infusiones de hierbas,Ajenjo,Ajenjo (Artemisia absinthium),1
+pp593,Hierbas aromáticas y especias e infusiones de hierbas,Aquilea/milenrama,Flores de aquilea/milenrama (Achillea millefolium),1
+pp594,Hierbas aromáticas y especias e infusiones de hierbas,Aquilea/milenrama,Planta de aquilea/milenrama (Achillea millefolium),1
+pp595,Hierbas aromáticas y especias e infusiones de hierbas,Planta de cuajaleche/hierba sanjuanera,Planta de cuajaleche/hierba sanjuanera (Galium verum),1
+pp596,Hierbas aromáticas y especias e infusiones de hierbas,Raíz de genciana amarilla,Raíz de genciana amarilla (Gentiana lutea),1
+pp502,Hierbas aromáticas y especias e infusiones de hierbas,Yerba Mate,Yerba Mate (llex paragariensis),1
+pp597,Hierbas aromáticas y especias e infusiones de hierbas,Yerba Mate,Yerba Mate (llex paragariensis),1
+pp598,Hierbas aromáticas y especias e infusiones de hierbas,Flor de cananga / Ylang-ylang,Flor de cananga / Ylang-ylang (Cananga odorata),1
+pp214,Miel,Miel,Calidad A,1
+pp215,Miel,Miel,Calidad B,1
+pp216,Miel,Miel,Otro [especificar],1
+pp217,Nueces,almendras,almendras,1
+pp218,Nueces,Semillas de albaricoque,Semillas de albaricoque,1
+pp219,Nueces,Nueces de Brasil,Nueces de Brasil,1
+pp220,Nueces,Anacardos,Anacardos,1
+pp309,Nueces,Castaña,Castaña,1
+pp221,Nueces,Macadamia,Macadamia,1
+pp224,Nueces,Nueces (otro),Otro [especificar],1
+pp222,Nueces,Mani/ Cacahuetes,Mani/ Cacahuetes,1
+pp223,Nueces,Nueces  de nogal,Nueces  de nogal,1
+pp225,Semillas y frutos oleaginosos,aceite de argán,aceite de argán,1
+pp226,Semillas y frutos oleaginosos,Cocos,Cocos,0.00120048
+pp633,Semillas y frutos oleaginosos,Linaza,Linaza,1
+pp637,Semillas y frutos oleaginosos,Semilla de madhuca,Semilla de madhuca,1
+pp227,Semillas y frutos oleaginosos,Aceite de oliva,Aceite de oliva,1
+pp228,Semillas y frutos oleaginosos,Aceitunas,Aceitunas,1
+pp233,Semillas y frutos oleaginosos,Semillas y frutos oleaginosos (otro),Otro [especificar],1
+pp638,Semillas y frutos oleaginosos,Semilla de sal,Semilla de sal,1
+pp229,Semillas y frutos oleaginosos,Aceite de semillas,Aceite de semillas,1
+pp230,Semillas y frutos oleaginosos,Semillas de sesamo,Semillas de sesamo,1
+pp231,Semillas y frutos oleaginosos,Manteca de Karité,Manteca de Karité,1
+pp232,Semillas y frutos oleaginosos,Soja,Soja,1
+pp073,Fruta fresca,Papaya,Papaya (fresca),1
+pp074,Fruta fresca,Maracujá,Maracujá (fresca),1
+pp075,Fruta fresca,Melocotones y nectarinas,Melocotones y nectarinas (frescos),1
+pp076,Fruta fresca,Pera,Pera (fresca),1
+pp312,Fruta fresca,Caqui,Caqui (fresco),1
+pp077,Fruta fresca,Physalis,Physalis (fresco),1
+pp078,Fruta fresca,Piña,Piña (fresca),1
+pp079,Fruta fresca,Ciruelas,Ciruelas (frescas),1
+pp080,Fruta fresca,Granado,Granado (fresco),1
+pp639,Fruta fresca,Pampelmusa,Pampelmusa (fresca),1
+pp081,Fruta fresca,higo de tuna,higo de tuna (fresco),1
+pp630,Fruta fresca,Rambután,Rambután (fresco),1
+pp082,Fruta fresca,Frambuesas,Frambuesas (frescas),1
+pp083,Fruta fresca,Grosella,Grosella (fresca),1
+pp629,Fruta fresca,Fruto serpiente,Fruto serpiente (fresco),1
+pp084,Fruta fresca,Cítricos suaves: clementinas,Cítricos suaves: clementinas (frescas),1
+pp085,Fruta fresca,Cítricos suaves: mandarinas,Cítricos suaves: mandarinas (frescas),1
+pp086,Fruta fresca,Cítricos suaves: satsumas,Cítricos suaves: satsumas (frescas),1
+pp087,Fruta fresca,Cítricos suaves: tangerinas,Cítricos suaves: tangerinas (frescas),1
+pp314,Fruta fresca,Guanábana,Guanábana (fresca),1
+pp088,Fruta fresca,Fresas,Fresas (frescas),1
+pp089,Fruta fresca,Uvas de mesa: con pepitas,Uvas de mesa: con pepitas (frescas),1
+pp090,Fruta fresca,Uvas de mesa: sin pepitas,Uvas de mesa: sin pepitas (frescas),1
+pp091,Fruta fresca,Sandía,Sandía (fresca),1
+pp357,"Fruta procesada (zumo, deshidratada y pulpa)",Acai,Acai (zumo),1
+pp093,"Fruta procesada (zumo, deshidratada y pulpa)",Manzana,Manzana (zumo),1
+pp358,"Fruta procesada (zumo, deshidratada y pulpa)",Arándano,Arándano (zumo),1
+pp359,"Fruta procesada (zumo, deshidratada y pulpa)",Cereza,Cereza (zumo),1
+pp094,"Fruta procesada (zumo, deshidratada y pulpa)",Pomelo (Toronja),Pomelo (Toronja) (zumo),1
+pp095,"Fruta procesada (zumo, deshidratada y pulpa)",Guayaba,Guayaba (zumo),1
+pp096,"Fruta procesada (zumo, deshidratada y pulpa)",Limón,Limón (zumo),1
+pp097,"Fruta procesada (zumo, deshidratada y pulpa)",Lima,Lima (zumo),1
+pp098,"Fruta procesada (zumo, deshidratada y pulpa)",Mandarina,Mandarina (zumo),1
+pp368,"Fruta procesada (zumo, deshidratada y pulpa)",Mango,Mango (zumo),1
+pp099,"Fruta procesada (zumo, deshidratada y pulpa)",Naranja,Naranja (zumo),1
+pp102,"Fruta procesada (zumo, deshidratada y pulpa)",Fruta procesada (otro),Otro zumo de fruta [especificar],1
+pp369,"Fruta procesada (zumo, deshidratada y pulpa)",Papaya,Papaya (zumo),1
+pp100,"Fruta procesada (zumo, deshidratada y pulpa)",Maracuyá,Maracuyá (zumo),1
+pp370,"Fruta procesada (zumo, deshidratada y pulpa)",Pera,Pera (zumo),1
+pp101,"Fruta procesada (zumo, deshidratada y pulpa)",Piña,Piña (zumo),1
+pp371,"Fruta procesada (zumo, deshidratada y pulpa)",Frambuesas,Frambuesas (zumo),1
+pp234,"Fruta procesada (zumo, deshidratada y pulpa)",Acai,Acai (pulpa),1
+pp235,"Fruta procesada (zumo, deshidratada y pulpa)",Araza,Araza (pulpa),1
+pp236,"Fruta procesada (zumo, deshidratada y pulpa)",Banana,Banana (pulpa),1
+pp237,"Fruta procesada (zumo, deshidratada y pulpa)",Carambola,Carambola (pulpa),1
+pp238,"Fruta procesada (zumo, deshidratada y pulpa)",Guayaba,Guayaba (pulpa),1
+pp239,"Fruta procesada (zumo, deshidratada y pulpa)",Litchi,Litchi (pulpa),1
+pp240,"Fruta procesada (zumo, deshidratada y pulpa)",Mango,Mango (pulpa),1
+pp241,"Fruta procesada (zumo, deshidratada y pulpa)",Fruta procesada (otro),Otras pulpas de fruta [especificar],1
+pp255,algodon sin desmontar,algodon sin desmontar,"Gossypium barbadense (p. ej. Giza, PIMA)",1
+pp254,algodon sin desmontar,algodon sin desmontar,Gossypium hirsutum/ herbaceum/ arboreum,1
+pp256,algodon sin desmontar,algodon sin desmontar,Otro [especificar],1
+pp257,Gambas,Gambas,M. rosenbergii,1
+pp258,Gambas,Gambas,Otro [especificar],1
+pp260,Balones deportivos,Balones deportivos,Otro [especificar],1
+pp259,Balones deportivos,Balones deportivos,Balones deportivos,1
+pp261,Te,Te,Camellia sinensis: hoja verde,0.22222
+pp262,Te,Te,Otro [especificar],1
+pp618,Textil,Algodón,Algodón,1
+pp619,Textil,producción responsable de fibras,producción responsable de fibras,1
+pp264,Madera,Madera,Otro [especificar],1
+pp263,Madera,Madera,Madera,1
+pp269,Verduras,Judías y judías verdes (salvo habichuelas),Judías y judías verdes (salvo habichuelas),1
+pp278,Verduras,Caupí (hojas),Caupí (hojas),1
+pp281,Verduras,Habichuelas,Habichuelas,1
+pp282,Verduras,Guisante de jardín,Guisante de jardín,1
+pp620,Verduras,Guisantes,Guisantes,1
+pp628,Verduras,"Arveja, guisante verde (cualquier Pisum comestible)","Arveja, guisante verde (cualquier Pisum comestible)",1
+pp622,Verduras,Hoja de Vigna unguiculata,Hoja de Vigna unguiculata,1
+pp289,Verduras,Papas/Patatas Nuevas,Papas/Patatas Nuevas,1
+pp292,Verduras,Guisantes (salvo guisantes de jardín),Guisantes (salvo guisantes de jardín),1
+pp307,Verduras,Amaranto,Amaranto,1
+pp265,Verduras,Alcachofera,Alcachofera,1
+pp266,Verduras,Espárrago,Espárrago,1
+pp267,Verduras,Maíz baby,Maíz baby,1
+pp268,Verduras,Alubias barlotti,Alubias barlotti,1
+pp270,Verduras,Beterraga,Beterraga,1
+pp271,Verduras,Brócoli,Brócoli,1
+pp308,Verduras,Coles de Bruselas,Coles de Bruselas,1
+pp272,Verduras,Col,Col,1
+pp273,Verduras,Zanahoria,Zanahoria,1
+pp274,Verduras,"Yuca, raíz de mandioca, raíz de tapioca","Yuca, raíz de mandioca, raíz de tapioca",1
+pp275,Verduras,Coliflor,Coliflor,1
+pp276,Verduras,Apio,Apio,1
+pp277,Verduras,Acelga,Acelga,1
+pp279,Verduras,Pepino,Pepino,1
+pp280,Verduras,Berenjena,Berenjena,1
+pp635,Verduras,Ajo elefante,Ajo elefante,1
+pp283,Verduras,Ajo,Ajo,1
+pp284,Verduras,Pepinillo,Pepinillo,1
+pp310,Verduras,Kale (cualquier Brassica comestible conocida como Kale),Kale (cualquier Brassica comestible conocida como Kale),1
+pp285,Verduras,Habas,Habas,1
+pp621,Verduras,Hojas de sombra de noche africana,Hojas de sombra de noche africana,1
+pp286,Verduras,Puerro,Puerro,1
+pp287,Verduras,Lechuga,Lechuga,1
+pp623,Verduras,Hojas de yute,Hojas de yute,1
+pp288,Verduras,Judías mungos,Judías mungos,1
+pp290,Verduras,Cebolla,Cebolla,1
+pp043,Verduras,Verduras (otro),Otras verdura deshidrata [especificar],1
+pp304,Verduras,Verduras (otro),Otras verduras frescas [especificar],1
+pp291,Verduras,Palmito,Palmito,1
+pp293,Verduras,Pimientos: cualquier Capsicum Annuum,Pimientos: cualquier Capsicum Annuum,1
+pp624,Verduras,Legumbres,Legumbres,1
+pp294,Verduras,Calabaza,Calabaza,1
+pp313,Verduras,"Radicchio, Achicoria","Radicchio, Achicoria",1
+pp295,Verduras,Rábano,Rábano,1
+pp296,Verduras,Chalotes,Chalotes,1
+pp297,Verduras,Hoja fina,Hoja fina,1
+pp298,Verduras,Araña,Araña,1
+pp299,Verduras,Espinacas,Espinacas,1
+pp300,Verduras,Calabacín,Calabacín,1
+pp301,Verduras,boniato,boniato,1
+pp042,Verduras,Tomates (deshidratos),Tomates (deshidratos),1
+pp302,Verduras,Tomates (frescos),Tomates (frescos),1
+pp303,Verduras,Calabacín,Calabacín,1
+pp306,Uvas de vino,Uvas de vino (otro),Otro [especificar],1
+pp625,Uvas de vino,Uvas de vino tinto,Uvas de vino tinto,0.00143
+pp626,Uvas de vino,Uvas de vino blanco,Uvas de vino blanco,0.0016
+pp305,Uvas de vino,Uvas de vino (sin especificar),Uvas de vino (sin especificar),1
